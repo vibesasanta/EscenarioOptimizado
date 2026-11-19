@@ -2,8 +2,13 @@
 FAB: https://www.fab.com/listings/df0308bb-f095-4a54-8544-5a893d91bd24
 Nombre FAB: Free Sample - American Diner Environment / Restaurant / Cafe
 
-Métricas:
-
+Métricas y capturas:
+Antes:
+(Antes/Antes1.png)
+(Antes/Antes2.png)
+(Antes/Antes3.png)
+(Antes/Antes4.png)
+(Antes/Antes5.png)
 
 Descripción:
 He agrupado objetos en relación de si estaban cercanos o si pertenecían a una zona en concreto, por ejemplo, todo los objetos del interior sin incluir las paredes y el techo
